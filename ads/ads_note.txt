@@ -1,0 +1,4 @@
+picsite:https://github.com/pojul/Calculator/ads/ads1.jpeg
+ads_num:20160529000001
+link:
+showtime:

@@ -2,4 +2,5 @@
 picsite:https://github.com/pojul/Calculator/blob/master/ads/ads1.jpeg?raw=true
 ads_num:20160529000001
 linkurl:
-showtime:更好
+linktxt:
+showtime:2000

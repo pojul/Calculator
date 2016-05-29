@@ -1,5 +1,5 @@
-sourcesite:https://github.com/pojul/Calculator/blob/master/ads/ads_note.txt?raw=true
+ï»¿sourcesite:https://github.com/pojul/Calculator/blob/master/ads/ads_note.txt?raw=true
 picsite:https://github.com/pojul/Calculator/blob/master/ads/ads1.jpeg?raw=true
 ads_num:20160529000001
 linkurl:
-showtime:¸üºÃ
+showtime:æ›´å¥½

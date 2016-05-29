@@ -1,4 +1,5 @@
-picsite:https://github.com/pojul/Calculator/ads/ads1.jpeg
+sourcesite:https://github.com/pojul/Calculator/blob/master/ads/ads_note.txt?raw=true
+picsite:https://github.com/pojul/Calculator/blob/master/ads/ads1.jpeg?raw=true
 ads_num:20160529000001
-link:
-showtime:
+linkurl:
+showtime:ธüบร

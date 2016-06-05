@@ -1,6 +1,5 @@
 ﻿sourcesite:https://github.com/pojul/Calculator/blob/master/ads/ads_note.txt?raw=true
 picsite:https://github.com/pojul/Calculator/blob/master/ads/ads1.jpeg?raw=true
-ads_num:20160529000003
-linkurl:
-linktxt:
-showtime:
+ads_num:20160529000004
+linktxt:<a href="http://www.baidu.com"><font color="#454545">更多好礼等你来拿！</font></a>
+showtime:11000

@@ -1,7 +1,6 @@
 ﻿﻿sourcesite:https://github.com/pojul/Calculator/blob/master/ads/ads_note.txt?raw=true
 picsite:https://github.com/pojul/Calculator/blob/master/ads/ads1.jpeg?raw=true
-ads_num:20160529000005
-linktxt:<font color="#565656"><a href="http://www.taobao.com">更多好礼等你来拿...</a></font>
+ads_num:201607171856
 showtime:7000
 versionCode:1
 versionName:vcode1.251
